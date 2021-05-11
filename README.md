@@ -1,10 +1,10 @@
 # Intro to Agora Web SDK
 
-This particular folder contains the code for the workshop conducted on November 16th, 2020. This code explains on how to build a video calling application using Agora Web SDK and add some really cool features using the same.
+This particular folder contains the code for the workshop conducted on May 12th, 2021. This code explains on how to build a video calling application using Agora Web SDK and add some really cool features using the same.
 
 ## Deployed version
 
-You can find the deployed version for the same over here: https://events-and-workshops.vercel.app/
+You can find the deployed version for the same over here: https://victoromondi1997.github.io/Advanced-Video-Calling/
 
 ## How the resources work
 
@@ -18,7 +18,7 @@ Here you will find the CSS styling for the call page
 ## Instructions to run
 * Clone the repo 
 ```bash
-git clone https://github.com/Meherdeep/Events-And-Workshops
+git clone https://github.com/VictorOmondi1997/Advanced-Video-Calling
 ```
 * Generate an APP ID - Go to https://console.agora.io/ and inside the `Project Management` create a new project in order to get an APP ID. 
 
